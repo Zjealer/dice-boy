@@ -1,5 +1,3 @@
-test edit
-
 # Dice Boy
 
 A discord bot for running Fallout RPG games.
